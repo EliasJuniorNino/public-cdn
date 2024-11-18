@@ -1,0 +1,199 @@
+
+body {
+            font-family: Roboto, sans-serif;
+            color: #333333;
+            margin: 0;
+            padding: 0;
+        }
+
+        h3 {
+            color: #34495e;
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+
+        p {
+            color: #555555;
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+
+        .combination-list {
+            font-size: 1.1em;
+            list-style-type: none;
+            margin-bottom: 20px;
+            padding: 0px;
+        }
+
+        .combination-list li {
+            background-color: #f1f1f1;
+            border-left: 5px solid rgb(52, 152, 219);
+            border-radius: 5px;
+            box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 5px;
+            margin: 10px 0px;
+            padding: 15px;
+            transition: background-color 0.3s;
+        }
+
+        .combination-list li:hover {
+            background-color: #e1e1e1;
+        }
+
+        .combination-list strong {
+            color: #3498db;
+        }
+
+        .slider {
+            margin: 30px auto;
+            max-width: 100%;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .separator {
+            clear: both;
+            text-align: center;
+        }
+
+        .separator img {
+            display: block;
+            height: auto;
+            margin: 0px auto;
+            max-width: 100%;
+        }
+
+        .slider-images {
+            display: flex;
+            transition: transform 0.5s;
+        }
+
+        section {
+            margin: 20px;
+        }
+.cofre-section {
+    color: #333333;
+    font-family: Roboto, sans-serif;
+}
+
+/* Estilo para o título */
+.cofre-title {
+    color: #34495e;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+/* Estilo para a descrição */
+.cofre-description {
+    color: #555555;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+/* Estilo para a lista de combinações */
+.combination-list {
+    font-size: 1.1em;
+    list-style-type: none;
+    margin-bottom: 20px;
+    padding: 0px;
+}
+
+/* Estilo para os itens da lista */
+.combination-item {
+    background-color: #f1f1f1;
+    border-left: 5px solid rgb(52, 152, 219);
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 5px;
+    margin: 10px 0px;
+    padding: 15px;
+}
+
+/* Estilo para os valores destacados */
+.combination-value {
+    color: #3498db;
+}
+
+/* Estilo para o slider */
+.slider {
+    margin: 30px auto;
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+/* Estilo para o link dentro do slider */
+.slider-link {
+    display: block;
+    height: auto;
+    margin: 0px auto;
+    max-width: 100%;
+}
+
+/* Estilo para a imagem dentro do slider */
+.slider-img {
+    width: 100%;
+}
+      
+h3 {
+    color: #34495e;
+    font-family: Roboto, sans-serif;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+section p {
+    color: #555555;
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+ul.combination-list {
+    font-size: 1.1em;
+    list-style-type: none;
+    margin-bottom: 20px;
+    padding: 0px;
+}
+
+ul.combination-list li {
+    background-color: #f1f1f1;
+    border-left: 5px solid rgb(52, 152, 219);
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 5px;
+    margin: 10px 0px;
+    padding: 15px;
+    transition: background-color 0.3s;
+}
+
+ul.combination-list li strong {
+    color: #3498db;
+}
+
+.slider {
+    margin: 30px auto;
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.separator {
+    clear: both;
+    text-align: center;
+}
+
+.separator a {
+    display: block;
+    height: auto;
+    margin: 0px auto;
+    max-width: 100%;
+}
+
+.slider-images {
+    display: flex;
+    transition: transform 0.5s;
+}
+
+.slider p {
+    margin-bottom: 20px;
+    color: #555555;
+    font-size: 22.464px;
+    font-weight: 400;
+}
